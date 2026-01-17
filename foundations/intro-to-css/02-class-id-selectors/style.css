@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.redHighlight{
+    background-color: rgb(216, 130, 130);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.redHighlight.redBig{
+    font-size: 24px;
+}
+
+#blueText{
+    color: #002fff;
+    font-size: 36px;
+}
+
+#greenHighlight{
+    background-color: hsl(145, 85%, 43%);
+    font-size: 24px;
+    font-weight: bold;
+}
